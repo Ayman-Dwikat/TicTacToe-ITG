@@ -1,4 +1,4 @@
-# Tic Tac Toe Game Using React
+# Tic Tac Toe Game
 
 This project is a responsive Tic Tac Toe game built with **React** and **Bootstrap**, developed in collaboration with **ITG Company**. The game provides an engaging platform for users to play the classic Tic Tac Toe game against a friend. It features smooth movements and transitions between game states, enhancing the user experience.
 
